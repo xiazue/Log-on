@@ -7,7 +7,7 @@ from discord.ext import commands
 TARGET_USER_ID = 'replace with_target_user_id'  # Set the target user ID here as a string
 
 
-Folder = "A:\Freetime_WORK\Log-on\Bot\content"
+Folder = "A:\Freetime_WORK\Log-on\Bot\content"  #set your folder path here
 Discord_Token = os.getenv("") #set your bot token here as you please, i have it in environments so if you dont, remove it and put your token as a string
 
 
